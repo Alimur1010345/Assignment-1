@@ -171,7 +171,7 @@ box-shadow: 1px 1px 2px 1px rgb(201, 198, 198);
 
 /* stricture section ends here */
 
-
+/* brain sec starts here */
 .brain_container{
     max-width: 1920px;
     width: 100%;
@@ -207,3 +207,63 @@ box-shadow: 1px 1px 2px 1px rgb(201, 198, 198);
     list-style-image: url("imeages/CheckCircle.png");
     margin-top: 16px;
 }
+/* brain sec ends here */
+
+/* ready sec starts here */
+#ready_think{
+max-width: 1920px;
+width: 80%;
+background-color: #F7F6F2;
+
+
+margin: 0 auto;
+}
+
+#ready_think .ready_container{
+    margin: 0 auto;
+    padding: 80px 40px 80px 40px;
+}
+
+.ready_description h1{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.ready_description p{
+    font-size: 16px;
+    text-align: center;
+    color: #627382;
+    margin-bottom: 24px;
+}
+
+.ready_btn{
+    max-width: 1920px;
+    min-width: 80px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ready_btn .ready_BTN{
+    width: 194px;
+    height: 52px;
+    background-color: #469165;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 16px;
+}
+
+.ready_footer{
+    max-width: 1920px;
+    min-width: 80px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.ready_footer p{
+    color: #627382;
+}
+
+/* ready sec ends here */
