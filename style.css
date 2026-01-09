@@ -267,3 +267,40 @@ margin: 0 auto;
 }
 
 /* ready sec ends here */
+
+/* footer sec starts here */
+
+#footer{
+    max-width: 1920px;
+    width: 100%;
+    background-color: #1d3236;
+    margin: 0 auto;
+    text-align: center;
+    padding: 120px 120px 120px 120px;
+}
+
+#footer .footer_container{
+    max-width: 1920px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 110px;
+    
+}
+
+.social p{
+    color: white;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.social a{
+    margin-right: 16px;
+    background-color: white;
+}
+
+.solid_hrow{
+    color: white;
+}
+/* footer sec ends here */
